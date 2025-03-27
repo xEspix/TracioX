@@ -68,6 +68,12 @@ Once the code is uploaded and the hardware is connected:
   - Turns left/right or goes straight depending on the sensor configuration.
 - All actions are logged via the Serial Monitor for debugging and adjustments.
 
+  ![17430560006399087155932106314617](https://github.com/user-attachments/assets/391d00b4-2fa4-45e7-bedf-37bb5230309e)
+
+  ![17430560311371134344133544390404](https://github.com/user-attachments/assets/77ff54d9-30df-419c-8a38-32989642467c)
+
+
+
 ## Media
 
 Photos and videos of the Line Tracing Car in action are available in the `media` folder. Check them out to see the project in operation!
